@@ -1,0 +1,14 @@
+C:\Users\callu\Desktop\runique\VProxy\bin\Debug\VProxy.exe.config
+C:\Users\callu\Desktop\runique\VProxy\bin\Debug\VProxy.exe
+C:\Users\callu\Desktop\runique\VProxy\bin\Debug\VProxy.pdb
+C:\Users\callu\Desktop\runique\VProxy\bin\Debug\VProxy.xml
+C:\Users\callu\Desktop\runique\VProxy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\callu\Desktop\runique\VProxy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.vbprojResolveAssemblyReference.cache
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.frmMain.resources
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.Resources.resources
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.vbproj.GenerateResource.Cache
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.exe
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.xml
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.pdb
+C:\Users\callu\Desktop\runique\VProxy\obj\Debug\VProxy.frmExport.resources
